@@ -31,7 +31,7 @@ $wgExtensionCredits['parser extensions'][] = array(
 );
 
 $wgCopyToClipboardIP = dirname( __FILE__ ) . '/';
-$wgClippy = "/lug_nitk/extensions/CopyToClipboard/clippy.swf";
+$wgClippy = "$wgScriptPath/extensions/CopyToClipboard/clippy.swf";
 $wgExtensionMessagesFiles['CopyToClipboard'] = $wgCopyToClipboardIP . 'CopyToClipboard.i18n.php';
 $wgHooks['ParserFirstCallInit'][] = 'wfCopyToClipboardInit';
 function wfCopyToClipboardInit( Parser $parser ) {

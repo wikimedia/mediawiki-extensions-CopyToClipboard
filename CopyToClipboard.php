@@ -27,7 +27,7 @@ $wgExtensionCredits['parser extensions'][] = array(
         'version'        => '0.1',
         'author'         => 'Nischay Nahata',
         'url'            => 'https://www.mediawiki.org/wiki/Extension:CopyToClipboard',
-        'descriptionmsg' => 'copytoclipboard',
+        'descriptionmsg' => 'copytoclipboard-desc',
 );
 
 $wgClippy = "$wgScriptPath/extensions/CopyToClipboard/clippy.swf";

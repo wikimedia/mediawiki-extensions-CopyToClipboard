@@ -13,5 +13,5 @@ $messages = array();
  * @author Nischay Nahata
  */
 $messages['en'] = array(
-	'copytoclipboard' => 'This is a tag extension and lets you add a copy to clipboard button',
+	'copytoclipboard-desc' => 'Adds a tag to show a "copy to clipboard" button on pages',
 );

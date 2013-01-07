@@ -16,9 +16,79 @@ $messages['en'] = array(
 	'copytoclipboard-desc' => 'Adds a tag to show a "copy to clipboard" button on pages',
 );
 
+/** Message documentation (Message documentation)
+ * @author Shirayuki
+ */
+$messages['qqq'] = array(
+	'copytoclipboard-desc' => '{{desc|name=Copy To Clipboard|url=http://www.mediawiki.org/wiki/Extension:CopyToClipboard}}',
+);
+
+/** German (Deutsch)
+ * @author Metalhead64
+ */
+$messages['de'] = array(
+	'copytoclipboard-desc' => 'Ergänzt ein Tag zur Anzeige einer Schaltfläche „In die Zwischenablage kopieren“ auf Seiten',
+);
+
+/** Lower Sorbian (dolnoserbski)
+ * @author Michawiki
+ */
+$messages['dsb'] = array(
+	'copytoclipboard-desc' => 'Pśidawa marku, aby tłocašk "do mjazyskłada kopěrowaś" na bokach pokazał',
+);
+
 /** French (français)
  * @author Seb35
  */
 $messages['fr'] = array(
 	'copytoclipboard-desc' => 'Ajoute un tag pour montrer un bouton "copier vers le presse-papier" sur les pages',
+);
+
+/** Galician (galego)
+ * @author Toliño
+ */
+$messages['gl'] = array(
+	'copytoclipboard-desc' => 'Engade unha etiqueta para mostrar o botón "copiar no portapapeis" nas páxinas',
+);
+
+/** Upper Sorbian (hornjoserbsce)
+ * @author Michawiki
+ */
+$messages['hsb'] = array(
+	'copytoclipboard-desc' => 'Přidawa značku, zo by tłóčatko "do mjezyskłada kopěrować" na stronach pokazał',
+);
+
+/** Italian (italiano)
+ * @author Beta16
+ */
+$messages['it'] = array(
+	'copytoclipboard-desc' => 'Aggiunge un tag per mostrare un pulsante "copia negli appunti" sulle pagine',
+);
+
+/** Japanese (日本語)
+ * @author Shirayuki
+ */
+$messages['ja'] = array(
+	'copytoclipboard-desc' => '「クリップボードにコピー」ボタンをページに表示するタグを追加する',
+);
+
+/** Luxembourgish (Lëtzebuergesch)
+ * @author Robby
+ */
+$messages['lb'] = array(
+	'copytoclipboard-desc' => 'Setzt en Tag derbäi fir e Knäppchen "an den Tëschespäicher kopéieren" op de Säiten ze weisen',
+);
+
+/** Macedonian (македонски)
+ * @author Bjankuloski06
+ */
+$messages['mk'] = array(
+	'copytoclipboard-desc' => 'Става ознака за приказ на копчето „copy to clipboard“ во страниците',
+);
+
+/** Piedmontese (Piemontèis)
+ * @author Dragonòt
+ */
+$messages['pms'] = array(
+	'copytoclipboard-desc' => 'A gionta na tichëtta për mosté un boton "còpia an memòria" dzor la pagina',
 );

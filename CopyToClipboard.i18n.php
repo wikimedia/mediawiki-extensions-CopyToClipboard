@@ -23,6 +23,13 @@ $messages['qqq'] = array(
 	'copytoclipboard-desc' => '{{desc|name=Copy To Clipboard|url=http://www.mediawiki.org/wiki/Extension:CopyToClipboard}}',
 );
 
+/** Asturian (asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'copytoclipboard-desc' => "Amiesta una etiqueta p'amosar un botón «copiar nel cartafueyu» nes páxines",
+);
+
 /** German (Deutsch)
  * @author Metalhead64
  */
@@ -70,6 +77,13 @@ $messages['it'] = array(
  */
 $messages['ja'] = array(
 	'copytoclipboard-desc' => '「クリップボードにコピー」ボタンをページに表示するタグを追加する',
+);
+
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'copytoclipboard-desc' => '믄서에 "클립보드로 복사"를 보여주는 태그 추가',
 );
 
 /** Luxembourgish (Lëtzebuergesch)

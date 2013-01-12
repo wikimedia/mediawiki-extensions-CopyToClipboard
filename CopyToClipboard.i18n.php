@@ -100,6 +100,13 @@ $messages['mk'] = array(
 	'copytoclipboard-desc' => 'Става ознака за приказ на копчето „copy to clipboard“ во страниците',
 );
 
+/** Dutch (Nederlands)
+ * @author Siebrand
+ */
+$messages['nl'] = array(
+	'copytoclipboard-desc' => 'Voegt een label toe om de knop "kopiëren naar klembord" op pagina\'s weer te geven',
+);
+
 /** Piedmontese (Piemontèis)
  * @author Dragonòt
  */

@@ -30,6 +30,13 @@ $messages['ast'] = array(
 	'copytoclipboard-desc' => "Amiesta una etiqueta p'amosar un botón «copiar nel cartafueyu» nes páxines",
 );
 
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
+ * @author Wizardist
+ */
+$messages['be-tarask'] = array(
+	'copytoclipboard-desc' => 'Дадае тэг для адлюстраваньня на старонках кнопкі «скапіяваць у буфэр абмену»',
+);
+
 /** German (Deutsch)
  * @author Metalhead64
  */
@@ -112,4 +119,11 @@ $messages['nl'] = array(
  */
 $messages['pms'] = array(
 	'copytoclipboard-desc' => 'A gionta na tichëtta për mosté un boton "còpia an memòria" dzor la pagina',
+);
+
+/** Ukrainian (українська)
+ * @author Olvin
+ */
+$messages['uk'] = array(
+	'copytoclipboard-desc' => 'Додає тег, щоб показати на сторінках кнопку "Копіювати в буфер обміну"',
 );

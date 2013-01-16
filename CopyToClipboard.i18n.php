@@ -23,6 +23,13 @@ $messages['qqq'] = array(
 	'copytoclipboard-desc' => '{{desc|name=Copy To Clipboard|url=http://www.mediawiki.org/wiki/Extension:CopyToClipboard}}',
 );
 
+/** Arabic (العربية)
+ * @author Mido
+ */
+$messages['ar'] = array(
+	'copytoclipboard-desc' => 'يضيف وسم لعرض زر "انسخ إلى الحافظة"  على الصفحات',
+);
+
 /** Asturian (asturianu)
  * @author Xuacu
  */

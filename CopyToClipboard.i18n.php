@@ -58,6 +58,13 @@ $messages['dsb'] = array(
 	'copytoclipboard-desc' => 'Pśidawa marku, aby tłocašk "do mjazyskłada kopěrowaś" na bokach pokazał',
 );
 
+/** Spanish (español)
+ * @author Vivaelcelta
+ */
+$messages['es'] = array(
+	'copytoclipboard-desc' => 'Añade una etiqueta para mostrar el botón "copiar en el portapapeles" en las páginas',
+);
+
 /** French (français)
  * @author Seb35
  */
@@ -126,6 +133,13 @@ $messages['nl'] = array(
  */
 $messages['pms'] = array(
 	'copytoclipboard-desc' => 'A gionta na tichëtta për mosté un boton "còpia an memòria" dzor la pagina',
+);
+
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'copytoclipboard-desc' => "Aggiunge 'nu tag pe fà vedè 'nu buttone \"copie jndr'à l'appunde\" sus a le pàggene",
 );
 
 /** Ukrainian (українська)

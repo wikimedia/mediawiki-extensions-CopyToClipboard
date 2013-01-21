@@ -148,3 +148,10 @@ $messages['roa-tara'] = array(
 $messages['uk'] = array(
 	'copytoclipboard-desc' => 'Додає тег, щоб показати на сторінках кнопку "Копіювати в буфер обміну"',
 );
+
+/** Simplified Chinese (中文（简体）‎)
+ * @author Yfdyh000
+ */
+$messages['zh-hans'] = array(
+	'copytoclipboard-desc' => '添加一个标签，以在页面上显示“复制到剪贴板”按钮',
+);

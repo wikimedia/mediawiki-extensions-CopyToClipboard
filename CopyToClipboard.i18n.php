@@ -142,6 +142,13 @@ $messages['roa-tara'] = array(
 	'copytoclipboard-desc' => "Aggiunge 'nu tag pe fà vedè 'nu buttone \"copie jndr'à l'appunde\" sus a le pàggene",
 );
 
+/** Swedish (svenska)
+ * @author WikiPhoenix
+ */
+$messages['sv'] = array(
+	'copytoclipboard-desc' => 'Lägger till en tagg för att visa knappen "kopiera till urklipp" på sidor',
+);
+
 /** Ukrainian (українська)
  * @author Olvin
  */

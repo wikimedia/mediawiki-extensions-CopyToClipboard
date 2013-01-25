@@ -142,6 +142,13 @@ $messages['roa-tara'] = array(
 	'copytoclipboard-desc' => "Aggiunge 'nu tag pe fà vedè 'nu buttone \"copie jndr'à l'appunde\" sus a le pàggene",
 );
 
+/** Russian (русский)
+ * @author DCamer
+ */
+$messages['ru'] = array(
+	'copytoclipboard-desc' => 'Добавляет тег, чтобы показать кнопку "Копировать в буфер обмена" на страницах',
+);
+
 /** Swedish (svenska)
  * @author WikiPhoenix
  */

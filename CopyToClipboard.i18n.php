@@ -59,10 +59,11 @@ $messages['dsb'] = array(
 );
 
 /** Spanish (español)
+ * @author Fitoschido
  * @author Vivaelcelta
  */
 $messages['es'] = array(
-	'copytoclipboard-desc' => 'Añade una etiqueta para mostrar el botón "copiar en el portapapeles" en las páginas',
+	'copytoclipboard-desc' => 'Añade una etiqueta para mostrar el botón «copiar al portapapeles» en las páginas',
 );
 
 /** French (français)

@@ -106,7 +106,7 @@ $messages['ja'] = array(
  * @author 아라
  */
 $messages['ko'] = array(
-	'copytoclipboard-desc' => '페이지마다 "클립보드로 복사" 버튼을 보여주는 태그를 추가합니다.',
+	'copytoclipboard-desc' => '문서에 "클립보드로 복사" 버튼을 보여주는 태그를 추가합니다',
 );
 
 /** Luxembourgish (Lëtzebuergesch)

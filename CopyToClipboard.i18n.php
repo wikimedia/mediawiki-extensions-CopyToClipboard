@@ -109,6 +109,13 @@ $messages['ko'] = array(
 	'copytoclipboard-desc' => '문서에 "클립보드로 복사" 버튼을 보여주는 태그를 추가합니다',
 );
 
+/** Colognian (Ripoarisch)
+ * @author Purodha
+ */
+$messages['ksh'] = array(
+	'copytoclipboard-desc' => 'Määd ene Knopp op dem Wiki sing Sigge, för et „Märke em Zwescheschpeischer“',
+);
+
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
  */

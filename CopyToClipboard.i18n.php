@@ -137,6 +137,13 @@ $messages['nl'] = array(
 	'copytoclipboard-desc' => 'Voegt een label toe om de knop "kopiëren naar klembord" op pagina\'s weer te geven',
 );
 
+/** Polish (polski)
+ * @author Odie2
+ */
+$messages['pl'] = array(
+	'copytoclipboard-desc' => 'Dodaje znacznik do wyświetlania przycisku „skopiuj do schowka” na stronach',
+);
+
 /** Piedmontese (Piemontèis)
  * @author Dragonòt
  */

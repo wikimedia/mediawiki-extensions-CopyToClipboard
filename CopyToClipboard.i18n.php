@@ -130,6 +130,13 @@ $messages['mk'] = array(
 	'copytoclipboard-desc' => 'Става ознака за приказ на копчето „copy to clipboard“ во страниците',
 );
 
+/** Malay (Bahasa Melayu)
+ * @author Anakmalaysia
+ */
+$messages['ms'] = array(
+	'copytoclipboard-desc' => 'Membubuh teg untuk memaparkan punat "salin ke papan klip" pada halaman',
+);
+
 /** Dutch (Nederlands)
  * @author Siebrand
  */

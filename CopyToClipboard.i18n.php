@@ -152,10 +152,11 @@ $messages['pl'] = array(
 );
 
 /** Piedmontese (Piemontèis)
+ * @author Borichèt
  * @author Dragonòt
  */
 $messages['pms'] = array(
-	'copytoclipboard-desc' => 'A gionta na tichëtta për mosté un boton "còpia an memòria" dzor la pagina',
+	'copytoclipboard-desc' => 'A gionta na tichëtta për ësmon-e un boton «copié an sla lòsa» an sle pàgine',
 );
 
 /** tarandíne (tarandíne)

@@ -187,6 +187,13 @@ $messages['uk'] = array(
 	'copytoclipboard-desc' => 'Додає тег, щоб показати на сторінках кнопку "Копіювати в буфер обміну"',
 );
 
+/** Vietnamese (Tiếng Việt)
+ * @author Tuankiet65
+ */
+$messages['vi'] = array(
+	'copytoclipboard-desc' => 'Thêm một thẻ để hiển thị nút "sao chép vào clipboard" trên trang',
+);
+
 /** Simplified Chinese (中文（简体）‎)
  * @author Yfdyh000
  */

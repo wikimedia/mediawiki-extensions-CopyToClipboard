@@ -188,10 +188,11 @@ $messages['uk'] = array(
 );
 
 /** Vietnamese (Tiếng Việt)
+ * @author Minh Nguyen
  * @author Tuankiet65
  */
 $messages['vi'] = array(
-	'copytoclipboard-desc' => 'Thêm một thẻ để hiển thị nút "sao chép vào clipboard" trên trang',
+	'copytoclipboard-desc' => 'Thêm một thẻ để hiển thị nút “sao chép vào bảng tạm” trên trang',
 );
 
 /** Simplified Chinese (中文（简体）‎)

@@ -201,3 +201,10 @@ $messages['vi'] = array(
 $messages['zh-hans'] = array(
 	'copytoclipboard-desc' => '添加一个标签，以在页面上显示“复制到剪贴板”按钮',
 );
+
+/** Traditional Chinese (中文（繁體）‎)
+ * @author Justincheng12345
+ */
+$messages['zh-hant'] = array(
+	'copytoclipboard-desc' => '添加一個標記以於頁面上顯示「複製到剪貼簿」按鈕',
+);

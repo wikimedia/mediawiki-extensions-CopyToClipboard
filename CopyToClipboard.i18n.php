@@ -66,6 +66,13 @@ $messages['es'] = array(
 	'copytoclipboard-desc' => 'Añade una etiqueta para mostrar el botón «copiar al portapapeles» en las páginas',
 );
 
+/** Persian (فارسی)
+ * @author Reza1615
+ */
+$messages['fa'] = array(
+	'copytoclipboard-desc' => 'افزودن یک برچسب برای نمایش دکمهٔ "کپی در حافظهٔ موقت" در صفحه‌ها',
+);
+
 /** French (français)
  * @author Seb35
  */

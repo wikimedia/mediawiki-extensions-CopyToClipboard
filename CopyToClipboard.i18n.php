@@ -94,6 +94,13 @@ $messages['hsb'] = array(
 	'copytoclipboard-desc' => 'Přidawa značku, zo by tłóčatko "do mjezyskłada kopěrować" na stronach pokazał',
 );
 
+/** Interlingua (interlingua)
+ * @author McDutchie
+ */
+$messages['ia'] = array(
+	'copytoclipboard-desc' => 'Adde un etiquetta pro monstrar un button "copiar al area de transferentia" in paginas',
+);
+
 /** Italian (italiano)
  * @author Beta16
  */

@@ -137,6 +137,13 @@ $messages['lb'] = array(
 	'copytoclipboard-desc' => 'Setzt en Tag derbäi fir e Knäppchen "an den Tëschespäicher kopéieren" op de Säiten ze weisen',
 );
 
+/** Basa Banyumasan (Basa Banyumasan)
+ * @author StefanusRA
+ */
+$messages['map-bms'] = array(
+	'copytoclipboard-desc' => 'Nambahna tag kanggo nidokna tombol "nyalin maring papan klip" nang kaca',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */

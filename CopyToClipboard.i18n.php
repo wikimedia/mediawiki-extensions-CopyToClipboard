@@ -165,6 +165,13 @@ $messages['nl'] = array(
 	'copytoclipboard-desc' => 'Voegt een label toe om de knop "kopiëren naar klembord" op pagina\'s weer te geven',
 );
 
+/** Occitan (occitan)
+ * @author Cedric31
+ */
+$messages['oc'] = array(
+	'copytoclipboard-desc' => 'Apond un tag per far veire un boton "copiar cap al quichapapièrs" sus las paginas',
+);
+
 /** Polish (polski)
  * @author Odie2
  */

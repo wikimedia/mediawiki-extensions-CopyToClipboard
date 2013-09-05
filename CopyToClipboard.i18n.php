@@ -187,6 +187,13 @@ $messages['pms'] = array(
 	'copytoclipboard-desc' => 'A gionta na tichëtta për ësmon-e un boton «copié an sla lòsa» an sle pàgine',
 );
 
+/** Brazilian Portuguese (português do Brasil)
+ * @author Cainamarques
+ */
+$messages['pt-br'] = array(
+	'copytoclipboard-desc' => 'Adiciona uma tag para exibir nas páginas um botão "copy to clipboard"',
+);
+
 /** tarandíne (tarandíne)
  * @author Joetaras
  */

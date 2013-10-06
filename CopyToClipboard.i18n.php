@@ -44,6 +44,13 @@ $messages['be-tarask'] = array(
 	'copytoclipboard-desc' => 'Дадае тэг для адлюстраваньня на старонках кнопкі «скапіяваць у буфэр абмену»',
 );
 
+/** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄)
+ * @author Yejianfei
+ */
+$messages['cdo'] = array(
+	'copytoclipboard-desc' => '添加蜀萆標籤讓伊敆頁面𡅏顯示「複製遘剪貼版」其按鈕',
+);
+
 /** German (Deutsch)
  * @author Metalhead64
  */

@@ -142,7 +142,7 @@ $messages['ksh'] = array(
  * @author Soued031
  */
 $messages['lb'] = array(
-	'copytoclipboard-desc' => 'Setzt en Tag dobäi fir e Knäppchen "an den Tëschespäicher kopéieren" op de Säiten ze weisen',
+	'copytoclipboard-desc' => 'Setzt en Tag derbäi fir e Knäppchen "an den Tëschespäicher kopéieren" op de Säiten ze weisen',
 );
 
 /** Basa Banyumasan (Basa Banyumasan)

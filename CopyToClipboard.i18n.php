@@ -216,6 +216,13 @@ $messages['ru'] = array(
 	'copytoclipboard-desc' => 'Добавляет тег, чтобы показать кнопку "Копировать в буфер обмена" на страницах',
 );
 
+/** Scots (Scots)
+ * @author John Reid
+ */
+$messages['sco'] = array(
+	'copytoclipboard-desc' => 'Adds ae tag tae shaw ae "copie til clipboard" button oan pages',
+);
+
 /** Swedish (svenska)
  * @author WikiPhoenix
  */

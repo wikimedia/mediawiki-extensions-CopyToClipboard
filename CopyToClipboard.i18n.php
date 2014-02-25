@@ -94,6 +94,13 @@ $messages['gl'] = array(
 	'copytoclipboard-desc' => 'Engade unha etiqueta para mostrar o botón "copiar no portapapeis" nas páxinas',
 );
 
+/** Hebrew (עברית)
+ * @author Yona b
+ */
+$messages['he'] = array(
+	'copytoclipboard-desc' => 'הוספת תג להציג כפתור "העתקה ללוח" בדפים',
+);
+
 /** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */

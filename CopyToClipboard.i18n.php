@@ -227,7 +227,7 @@ $messages['ru'] = array(
  * @author John Reid
  */
 $messages['sco'] = array(
-	'copytoclipboard-desc' => 'Adds ae tag tae shaw ae "copie til clipboard" button oan pages',
+	'copytoclipboard-desc' => 'Eiks ae tag tae shaw ae "copie til clipbuird" button oan pages',
 );
 
 /** Swedish (svenska)

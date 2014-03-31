@@ -7,7 +7,6 @@
  *
  * @ingroup Extensions
  * @author Nischay Nahata <nischayn22@gmail.com>
- * @version 0.1
  * @link https://www.mediawiki.org/wiki/Extension:CopyToClipboard
  */
 
@@ -24,7 +23,7 @@ if( !defined( 'MEDIAWIKI' ) ) {
 $wgExtensionCredits['parser extensions'][] = array(
         'path'           => __FILE__,
         'name'           => 'CopyToClipboard',
-        'version'        => '0.1',
+        'version'        => '0.2.0',
         'author'         => 'Nischay Nahata',
         'url'            => 'https://www.mediawiki.org/wiki/Extension:CopyToClipboard',
         'descriptionmsg' => 'copytoclipboard-desc',
@@ -32,6 +31,7 @@ $wgExtensionCredits['parser extensions'][] = array(
 
 $wgClippy = "$wgScriptPath/extensions/CopyToClipboard/clippy.swf";
 
+$wgMessagesDirs['CopyToClipboard'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['CopyToClipboard'] = dirname( __FILE__ ) . '/CopyToClipboard.i18n.php';
 
 $wgHooks['ParserFirstCallInit'][] = 'wfCopyToClipboardInit';

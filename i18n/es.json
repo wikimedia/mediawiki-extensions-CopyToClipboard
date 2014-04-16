@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Fitoschido",
-            "Vivaelcelta"
-        ]
-    },
-    "copytoclipboard-desc": "Añade una etiqueta para mostrar el botón «copiar al portapapeles» en las páginas"
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"Vivaelcelta"
+		]
+	},
+	"copytoclipboard-desc": "Añade una etiqueta para mostrar el botón «copiar al portapapeles» en las páginas"
 }

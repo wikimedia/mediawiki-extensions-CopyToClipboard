@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Shirayuki"
-        ]
-    },
-    "copytoclipboard-desc": "{{desc|name=Copy To Clipboard|url=http://www.mediawiki.org/wiki/Extension:CopyToClipboard}}"
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"copytoclipboard-desc": "{{desc|name=Copy To Clipboard|url=http://www.mediawiki.org/wiki/Extension:CopyToClipboard}}"
 }

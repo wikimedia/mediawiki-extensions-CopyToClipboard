@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki"
+			"Shirayuki",
+			"Umherirrender"
 		]
 	},
-	"copytoclipboard-desc": "{{desc|name=Copy To Clipboard|url=http://www.mediawiki.org/wiki/Extension:CopyToClipboard}}"
+	"copytoclipboard-desc": "{{desc|name=Copy To Clipboard|url=https://www.mediawiki.org/wiki/Extension:CopyToClipboard}}"
 }

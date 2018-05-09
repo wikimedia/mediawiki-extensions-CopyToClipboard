@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Yona b"
+			"Yona b",
+			"Guycn2"
 		]
 	},
-	"copytoclipboard-desc": "הוספת תג להציג כפתור \"העתקה ללוח\" בדפים"
+	"copytoclipboard-desc": "הוספת תג להצגת כפתור \"העתקה ללוח\" בדפים"
 }

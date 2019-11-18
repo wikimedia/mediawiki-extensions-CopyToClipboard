@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Seb35",
-			"Verdy p"
+			"Verdy p",
+			"Thibaut120094"
 		]
 	},
-	"copytoclipboard-desc": "Ajoute une balise pour afficher un bouton « Copier vers le presse-papier » sur les pages"
+	"copytoclipboard-desc": "Ajoute une balise pour afficher un bouton « copier vers le presse-papiers » sur les pages"
 }
